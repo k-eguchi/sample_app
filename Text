@@ -1,0 +1,5 @@
+ rails s -b $IP -p $PORT
+ 
+ Name: Rails Tutorial
+ Mail: example@railstutorial.jp
+ Pass: foobar
